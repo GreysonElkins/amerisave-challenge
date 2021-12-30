@@ -1,4 +1,4 @@
-This was completed as a code challenge in an application to work at Amerisave. The app was built with Typescript and Node.js and is designed to created a file for each log that tallies how many times an email appears in the original file. The output is included here.
+This was completed as a code challenge in an application to work at Amerisave. The original prompt is included here as `coding_challenge_prompt.txt`. The app was built with Typescript and Node.js and is designed to created a file for each log that tallies how many times an email appears in the original file. The output is included here.
 
 In order to run this locally: 
 * clone down the repo
